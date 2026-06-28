@@ -1,0 +1,5 @@
+Refund requests require supervisor approval.
+
+Subscription cancellation requires supervisor approval.
+
+Account closure requires supervisor approval.

@@ -1,0 +1,5 @@
+If the application crashes, restart it.
+
+If login fails, reset your password.
+
+If upload fails, check internet connectivity.

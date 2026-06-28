@@ -1,0 +1,5 @@
+You can update your profile from Account Settings.
+
+Invoices are available in the Billing section.
+
+Password reset emails are sent immediately.
